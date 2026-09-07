@@ -32,7 +32,7 @@ End-to-end CRM performance tracking: 6,711 opportunities, 60.3% win rate, $1,985
 1. Overall CRM Performance - Pivot Summary
 This dashboard shows quarterly trend (2017 Q1-Q4), deal stages (Won/Lost), sales agent performance, and Opportunities Won by Agent.
 
-<img width="1013" alt="CRM Dashboard Main" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_CRM_MAIN_IMAGE_LINK" />
+[CRM SALES DASHBOARD - Pivot Table 1.pdf](https://github.com/user-attachments/files/31900129/CRM.SALES.DASHBOARD.-.Pivot.Table.1.pdf)
 
 
 - Year-Quarter: Q1 2017: 647 opps, Q2: 2,032, Q3: 2,047, Q4: 1,985 | Grand Total 6,711
