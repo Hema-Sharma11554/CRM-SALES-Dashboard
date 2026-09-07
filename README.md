@@ -2,16 +2,14 @@
 
 End-to-end CRM performance tracking: 6,711 opportunities, 60.3% win rate, $1,985 wins in Q4, agent-wise performance analysis
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Interactive%20Report-brightgreen?style=for-the-badge&logo=powerbi)](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Interactive%20Report-brightgreen?style=for-the-badge&logo=powerbi)](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard)[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7%20Projects-blue?style=for-the-badge)](https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/)
 
 🔗 Quick Links
 | Resource | Link |
 |----------|------|
 | 📊 Live Dashboard | 
-<img width="3300" height="2550" alt="Image" src="https://github.com/user-attachments/assets/1dec1024-bdcd-480b-928d-e4df94dbf150" />
-|
+
 | 💻 GitHub Repo | https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard |
 | 🌐 My Portfolio| https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/ |
 
@@ -33,9 +31,8 @@ End-to-end CRM performance tracking: 6,711 opportunities, 60.3% win rate, $1,985
 
 1. Overall CRM Performance - Pivot Summary
 This dashboard shows quarterly trend (2017 Q1-Q4), deal stages (Won/Lost), sales agent performance, and Opportunities Won by Agent.
-
-[CRM SALES DASHBOARD - Pivot Table 1.pdf](https://github.com/user-attachments/files/31900129/CRM.SALES.DASHBOARD.-.Pivot.Table.1.pdf)
-
+<img width="3300" height="2550" alt="Image" src="https://github.com/user-attachments/assets/1dec1024-bdcd-480b-928d-e4df94dbf150" />
+|
 
 - Year-Quarter: Q1 2017: 647 opps, Q2: 2,032, Q3: 2,047, Q4: 1,985 | Grand Total 6,711
 - Deal Stage: Won 4,238 vs Lost 2,473 | Q4: 1,196 Won, 789 Lost
