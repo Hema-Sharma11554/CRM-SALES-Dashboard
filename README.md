@@ -9,7 +9,9 @@ End-to-end CRM performance tracking: 6,711 opportunities, 60.3% win rate, $1,985
 🔗 Quick Links
 | Resource | Link |
 |----------|------|
-| 📊 Live Dashboard | [Click to Interact - Power BI](https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard) - Replace with your Novy.pro link |
+| 📊 Live Dashboard | 
+<img width="3300" height="2550" alt="Image" src="https://github.com/user-attachments/assets/1dec1024-bdcd-480b-928d-e4df94dbf150" />
+|
 | 💻 GitHub Repo | https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard |
 | 🌐 My Portfolio| https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/ |
 
