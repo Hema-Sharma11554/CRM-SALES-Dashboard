@@ -6,11 +6,9 @@ End-to-end CRM performance tracking: 6,711 opportunities, 60.3% win rate, $1,985
 [![Portfolio](https://img.shields.io/badge/Portfolio-7%20Projects-blue?style=for-the-badge)](https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/)
 
 🔗 Quick Links
-| Resource | Link |
-|----------|------|
-| 📊 Live Dashboard | 
 
 | 💻 GitHub Repo | https://github.com/Hema-Sharma11554/CRM-SALES-Dashboard |
+
 | 🌐 My Portfolio| https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/ |
 
 ---
